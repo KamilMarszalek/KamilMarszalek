@@ -31,21 +31,6 @@ I'm a second-year student who loves building scalable back-end systems and explo
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)  
 [![Back-end Development](https://img.shields.io/badge/Back--end_Development-4B0082.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Backend)
 
-## Projects
-
-### Checkers
-[Checkers](https://github.com/KamilMarszalek/checkers-online)  
-A web application implementing the classic Checkers game. Built with Java and Spring Boot for the back-end and Kotlin WASM for the frontend, this project demonstrates efficient real-time gameplay mechanics and modern web development practices.
-
-### Expense Tracker
-[Expense Tracker](https://github.com/damian-ds7/PAP-expense-tracker)  
-A mobile application designed to help users manage and track their expenses. The project focuses on delivering a user-friendly interface and practical features for personal finance management.
-
-### Poker Texas Hold'em
-[Poker](https://github.com/damian-ds7/PROI-Poker)  
-A desktop application simulating Texas Hold'em Poker, developed using C++ and Qt. This project highlights robust game logic and an engaging interactive experience.
-
-
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-marsza%C5%82ek-9949ba294/)
 
