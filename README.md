@@ -35,4 +35,4 @@ I'm a second-year student who loves building scalable back-end systems and explo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-marsza%C5%82ek-9949ba294/)
 
 ## GitHub Stats
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KamilMarszalek/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KamilMarszalek/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)
