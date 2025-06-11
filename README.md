@@ -21,6 +21,11 @@ I'm a second-year student who loves building scalable back-end systems and explo
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
 [![Gin](https://img.shields.io/badge/Gin-00BFFF.svg?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com)
 
+### APIs & Communication
+[![REST API](https://img.shields.io/badge/REST_API-005571.svg?style=for-the-badge)](https://restfulapi.net)  
+[![WebSockets](https://img.shields.io/badge/WebSockets-35495E.svg?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)  
+[![Redis (Pub/Sub)](https://img.shields.io/badge/Redis-Pub%2FSub-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/interact/pubsub/)
+
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
 [![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database)
@@ -34,6 +39,7 @@ I'm a second-year student who loves building scalable back-end systems and explo
 ### Interests
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)  
 [![Back-end Development](https://img.shields.io/badge/Back--end_Development-4B0082.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Backend)
+
 
 
 ## Contact Me
