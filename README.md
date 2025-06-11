@@ -13,13 +13,17 @@ I'm a second-year student who loves building scalable back-end systems and explo
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
 [![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
 [![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL) <br>
-[![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
-
-
+[![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)  
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
 
 ### Frameworks
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![Gin](https://img.shields.io/badge/Gin-00BFFF.svg?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com)
+
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
+[![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database)
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
@@ -30,6 +34,7 @@ I'm a second-year student who loves building scalable back-end systems and explo
 ### Interests
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)  
 [![Back-end Development](https://img.shields.io/badge/Back--end_Development-4B0082.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Backend)
+
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-marsza%C5%82ek-9949ba294/)
