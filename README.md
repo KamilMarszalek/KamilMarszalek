@@ -3,7 +3,7 @@
 I'm **Kamil**, a passionate Computer Science student at Warsaw University of Technology focusing on back-end development and artificial intelligence.
 
 ## About Me
-I'm a second-year student who loves building scalable back-end systems and exploring the world of AI. I enjoy working on projects that solve real-world problems and constantly learning new technologies to improve my craft. I would also love to gain some hands-on experience as an intern or junior software engineer.
+I'm a third-year student who loves building scalable back-end systems and exploring the world of AI. I enjoy working on projects that solve real-world problems and constantly learning new technologies to improve my craft. I would also love to gain some hands-on experience as an intern or junior software engineer.
 
 ## Skills
 
