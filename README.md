@@ -1,49 +1,61 @@
 # Hi there 👋
 
-I'm **Kamil**, a passionate Computer Science student at Warsaw University of Technology focusing on back-end development and artificial intelligence.
+I'm **Kamil Marszałek**, a Computer Science student at **Warsaw University of Technology** with a strong interest in **backend development**, **systems programming**, and **applied AI**.
 
 ## About Me
-I'm a third-year student who loves building scalable back-end systems and exploring the world of AI. I enjoy working on projects that solve real-world problems and constantly learning new technologies to improve my craft. I would also love to gain some hands-on experience as an intern or junior software engineer.
 
-## Skills
+- 🎓 Computer Science student at Warsaw University of Technology  
+- 💻 Interested in backend engineering, APIs, databases, and systems-oriented software  
+- 🧠 Also exploring machine learning and optimization through academic and personal projects  
+- 🚀 Currently looking for opportunities to grow as a **Software Engineering Intern**
+
+I enjoy building practical software projects in **Go, Java, Python, and C++** — from CLI tools and backend systems to algorithmic solvers and data-oriented applications.
+
+## Tech Stack
 
 ### Languages
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)  
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
-[![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL) <br>
-[![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)  
-[![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frameworks
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
-[![Gin](https://img.shields.io/badge/Gin-00BFFF.svg?style=for-the-badge&logo=go&logoColor=white)](https://gin-gonic.com)
+### Backend / Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00BFFF.svg?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571.svg?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-35495E.svg?style=for-the-badge)
 
-### APIs & Communication
-[![REST API](https://img.shields.io/badge/REST_API-005571.svg?style=for-the-badge)](https://restfulapi.net)  
-[![WebSockets](https://img.shields.io/badge/WebSockets-35495E.svg?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)  
-[![Redis (Pub/Sub)](https://img.shields.io/badge/Redis-Pub%2FSub-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/interact/pubsub/)
+### Databases / Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
-[![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database)
+## Featured Projects
 
-### Tools
-[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+### [Microsoft Teams terminal client ecosystem](https://github.com/pzsp-teams/teams-cli)
+A terminal-first ecosystem for Microsoft Teams built around a reusable **Go library**, a **Python wrapper**, and a **CLI/TUI application**.  
+Worked on backend abstractions, Microsoft Graph API integration, caching, and reference resolution for terminal workflows.
 
-### Interests
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)  
-[![Back-end Development](https://img.shields.io/badge/Back--end_Development-4B0082.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Backend)
+### [Car dealer e-commerce platform](https://github.com/susek555/Car-dealer-e-commerce)
+A full-stack platform for **car listings, purchases, and real-time auctions** built with **Go/Gin**, **PostgreSQL**, and **Next.js**.  
+My contribution focused on the **backend** and **database layer**, including authentication, REST APIs, real-time updates, and database-side optimization.
 
+### [MWIS on 4×n grid board](https://github.com/KamilMarszalek/mwis-on-grid)
+A solver framework for a constrained optimization problem on a fixed-height grid using **dynamic programming**, **A\***, and **heuristic methods**.  
+Includes reproducible experiments, result aggregation, plots, and automated tests.
 
+### [Jump Meter](https://github.com/susek555/FO-Jump-Meter)
+Android app for measuring vertical jump parameters using smartphone sensor data (accelerometer + gyroscope).
+The app detects jump phases, estimates jump height, visualizes acceleration, velocity, and height over time, and stores previous results for later analysis.
+Writen in **Kotlin**
 
-## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-marsza%C5%82ek-9949ba294/)
+## Contact
 
-## GitHub Stats
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KamilMarszalek/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-marsza%C5%82ek-9949ba294/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamilMarszalek)
