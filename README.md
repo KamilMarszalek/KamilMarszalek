@@ -29,6 +29,15 @@ I enjoy building practical software projects in **Go, Java, Python, C++, and Rus
 ![REST API](https://img.shields.io/badge/REST_API-005571.svg?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-35495E.svg?style=for-the-badge)
 
+### ML / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-%237B4FAB.svg?style=for-the-badge&logo=optuna&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### Databases / Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -58,6 +67,10 @@ Downloads OHLCV candles from the Financial Modeling Prep API, draws interactive 
 ### [Mandelbulb renderer](https://github.com/KamilMarszalek/mandelbulb)
 A 3D Mandelbulb fractal renderer combining a **Python** CLI (**Typer**) with a **Rust** computational core via **PyO3** / **maturin**.  
 Uses ray marching and **Rayon** for parallel rendering (~11× speedup over sequential), and outputs either a PNG image or a 60-frame animated GIF.
+
+### [Neural network projects](https://github.com/KamilMarszalek/neural-network-projects)
+A collection of six **PyTorch** machine-learning projects spanning tabular data, computer vision, generative modeling, sequence models, and NLP.  
+Includes a regression model for rental demand, an Optuna-tuned MLP for imbalanced classification, custom CNNs for 50-class image recognition, a class-conditional **diffusion model**, a bidirectional **GRU** for composer classification, and a **transformer** ensemble for Polish hate-speech detection.
 
 ### [MWIS on 4×n grid board](https://github.com/KamilMarszalek/mwis-on-grid)
 A solver framework for a constrained optimization problem on a fixed-height grid using **dynamic programming**, **A\***, and **heuristic methods**.  
