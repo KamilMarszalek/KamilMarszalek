@@ -9,7 +9,7 @@ I'm **Kamil Marszałek**, a Computer Science student at **Warsaw University of T
 - 🧠 Also exploring machine learning and optimization through academic and personal projects  
 - 🚀 Currently looking for opportunities to grow as a **Software Engineering Intern**
 
-I enjoy building practical software projects in **Go, Java, Python, and C++** — from CLI tools and backend systems to algorithmic solvers and data-oriented applications.
+I enjoy building practical software projects in **Go, Java, Python, C++, and Rust** — from CLI tools and backend systems to algorithmic solvers and data-oriented applications.
 
 ## Tech Stack
 
@@ -18,6 +18,7 @@ I enjoy building practical software projects in **Go, Java, Python, and C++** �
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -45,6 +46,18 @@ Worked on backend abstractions, Microsoft Graph API integration, caching, and re
 ### [Car dealer e-commerce platform](https://github.com/susek555/Car-dealer-e-commerce)
 A full-stack platform for **car listings, purchases, and real-time auctions** built with **Go/Gin**, **PostgreSQL**, and **Next.js**.  
 My contribution focused on the **backend** and **database layer**, including authentication, REST APIs, real-time updates, and database-side optimization.
+
+### [Keyboard layout optimizer](https://github.com/KamilMarszalek/keyboard-layout-optimizer)
+A web tool that optimizes keyboard layouts for a given text against ergonomic metrics (same-finger bigrams, finger travel distance, home-row usage, hand alternation, row jumping).  
+The optimization core is written in **Rust**, compiled to **WebAssembly** with `wasm-pack`/`wasm-bindgen`, and uses **simulated annealing**; the **Vue.js / TypeScript** frontend handles layout and heat-map visualization.
+
+### [European Stocks Analyzer](https://github.com/KamilMarszalek/pf)
+A **Kotlin** desktop app for analyzing and visualizing historical stock data, built with **Compose Multiplatform** and **Ktor**.  
+Downloads OHLCV candles from the Financial Modeling Prep API, draws interactive candlestick charts, and computes **SMA, EMA, and RSI** indicators locally, with indicators and statistics implemented as pure functions over immutable data.
+
+### [Mandelbulb renderer](https://github.com/KamilMarszalek/mandelbulb)
+A 3D Mandelbulb fractal renderer combining a **Python** CLI (**Typer**) with a **Rust** computational core via **PyO3** / **maturin**.  
+Uses ray marching and **Rayon** for parallel rendering (~11× speedup over sequential), and outputs either a PNG image or a 60-frame animated GIF.
 
 ### [MWIS on 4×n grid board](https://github.com/KamilMarszalek/mwis-on-grid)
 A solver framework for a constrained optimization problem on a fixed-height grid using **dynamic programming**, **A\***, and **heuristic methods**.  
